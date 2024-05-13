@@ -33,6 +33,6 @@ If however, the measure contains only 1 or 2 unique counts, 2 points are subtrac
 For example, the measure | "dotted 8th note - 16th note" | "8th rest - 16th note - 16th note" | "16th note - dotted 8th note" | "8th note - 8th note" | would be 12 points usually, but since it contains 4 unique counts, the final score ends up as 12 + 2 = 14.
 
 These difficulty scores are then rescaled into categories, where:
-- <= 10 points: easy
-- > 10 points <= 14 points: medium
-- > 14 points: hard
+- Easy: <= 10 points
+- Medium: > 10 points <= 14 points
+- Hard: > 14 points
