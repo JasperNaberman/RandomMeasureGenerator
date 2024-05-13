@@ -1,0 +1,13 @@
+name: random_measure_generator
+title: random_measure_generator
+username: jnaberman
+account: jnaberman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11947726
+bundleId: 8607169
+url: https://jnaberman.shinyapps.io/random_measure_generator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 8th_16th_note_measures.Rmd|building block images
